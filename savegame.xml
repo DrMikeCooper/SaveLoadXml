@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Saveables>
+  <Enemy2 posX="-5.07303858" posY="2.049" posZ="5.24758673" dirX="-0.8011346" dirY="0" dirZ="0.5984842" />
+  <Enemy1 posX="3.239796" posY="2.049" posZ="1.56169438" dirX="-0.873312" dirY="0" dirZ="-0.487161338" />
+  <Player posX="4.10689163" posY="2.049" posZ="0.660626769" dirX="0.6832617" dirY="0" dirZ="0.7301736" />
+</Saveables>
